@@ -107,8 +107,8 @@ dropklient is live and accepting new users.
 
 dropklient is built and run by **Subhajit (SJ)** — solo founder, end-to-end: product, design, engineering, infrastructure, and support.
 
-- Website: [shubhajitdas.in](https://shubhajitdas.in)
-- Email: [hello@shubhajitdas.in](mailto:hello@shubhajitdas.in)
+- Website: [subhajitdas.in](https://www.subhajitdas.in/)
+- Email: [hello@subhajitdas.in](mailto:hello@subhajitdas.in)
 
 ---
 
