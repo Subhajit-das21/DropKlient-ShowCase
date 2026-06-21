@@ -26,12 +26,12 @@ Built for freelance developers, designers, video editors, writers, and small age
 ## See it
 
 <div align="center">
-  <!-- TODO: add real dashboard screenshot before going live (assets/screenshots/dashboard.png) -->
+  <img src="assets/screenshots/Dashboard.png" alt="dropklient dashboard showing project overview" width="800" />
   <p><em>The freelancer dashboard — every active project, at a glance.</em></p>
 </div>
 
 <div align="center">
-  <!-- TODO: add real portal screenshot before going live (assets/screenshots/portal.png) -->
+  <img src="assets/screenshots/ClientPortal.png" alt="dropklient client portal" width="800" />
   <p><em>What the client sees — no login, just the link.</em></p>
 </div>
 
